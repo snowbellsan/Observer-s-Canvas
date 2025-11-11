@@ -41,3 +41,12 @@ cd quantum-causality-simulator
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+---
+
+## Author
+
+**snowbellsan**    ( https://x.com/Jackpot_jack )  
+*Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
+
+---
