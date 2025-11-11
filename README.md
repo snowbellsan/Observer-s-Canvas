@@ -35,7 +35,7 @@
 
 ## Author
 
-**snowbellsan**    ( https://x.com/Jackpot_jack )  
+**Jack**    ( https://x.com/Jackpot_jack )  
 *Simulator Archaeologist | AI Conductor | One-sentence Philosopher*
 
 ---
