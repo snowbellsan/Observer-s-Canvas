@@ -13,7 +13,7 @@
 
 | Main UI | Export Dialog |
 |--------|---------------|
-| ![Main UI](screenshots/main.png) | ![Export](screenshots/export.png) |
+| ![Main UI](screenshots/main.png)  |
 
 *(Add screenshots to `screenshots/` folder and update the paths above.)*
 
