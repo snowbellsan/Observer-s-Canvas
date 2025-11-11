@@ -15,7 +15,6 @@
 |--------|
 | ![Main UI](screenshots/main.png)  |
 
-*(Add screenshots to `screenshots/` folder and update the paths above.)*
 
 ---
 
